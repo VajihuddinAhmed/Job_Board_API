@@ -1,0 +1,34 @@
+{
+  "Available-Jobs": [
+    {
+      "Job-Title": "JavaScript Developer",
+      "Job-Type": "Full Time",
+      "Company": "Radiant Systems",
+      "Location": "Texas, US"
+    },
+    {
+      Job-Title": "Front-end Developer",
+      "Job-Type": "Part Time",
+      "Company": "Solaris Systems",
+      "Location": "Paris, FR"
+    },
+    {
+      Job-Title": "Backend Developer",
+      "Job-Type": "Freelance",
+      "Company": "Dassault Systems",
+      "Location": "Lyon, FR"
+    },
+    {
+      Job-Title": "UI/UX Designer",
+      "Job-Type": "Temporary",
+      "Company": "Infotech Solutions",
+      "Location": "Berlin, GR"
+    },
+    {
+      Job-Title": "Junior Software Engineer",
+      "Job-Type": "Internship",
+      "Company": "Xenon Systems",
+      "Location": "Hyderabad, Pak"
+    }
+  ]
+}
